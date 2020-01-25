@@ -33,7 +33,7 @@
     {
      "prefix": "$", // default: $
      "region": "ar", // this is the language of the bot
-     "token": "YOUR BOT's VERY SECRET TOKEN"
+     "token": "YOUR BOT'S VERY SECRET TOKEN"
     }
     ```
   
